@@ -1,4 +1,7 @@
-
+//author by MARTIN_JANG
+//follow me on instagram: martin_jangggg
+//I hope this code might helpful for those want to learn artifical neural network in low-level programinng
+//thanks!
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
