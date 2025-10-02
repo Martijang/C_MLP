@@ -1,7 +1,6 @@
-//author by MARTIN_JANG
-//follow me on instagram: martin_jangggg
-//I hope this code might helpful for those want to learn artifical neural network in low-level programinng
-//thanks!
+//Note: this code was written when I was 13 years old
+//Now I'm 16, and this codes are like pirates code..
+//However, it seems like my C programming skills back then was great.
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
@@ -182,3 +181,4 @@ int main() {
 
     return 0;
 }
+
